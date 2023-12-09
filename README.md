@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python data analytics Projects:</h2>
 
 - <b>Companies House postcode analysis</b>
-  - [Data analysis, wrangling and visualisation using Python and Tableau](https://github.com/OdiNnodum/Companies-House-postcode-analysis/tree/main))
+  - [Data analysis, wrangling and visualisation using Python and Tableau](https://github.com/OdiNnodum/Companies-House-postcode-analysis/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <h2>👨‍💻SQL data analytics projects:</h2>
