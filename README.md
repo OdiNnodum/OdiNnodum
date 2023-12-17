@@ -1,6 +1,6 @@
 <h1>Hi, I'm Odi! 
 
-<h2>👨‍💻 Python data analytics Projects:</h2>
+<h2>👨‍💻 Python data analytics projects:</h2>
 
 - <b>Companies House postcode analysis</b>
   - [Data analysis, wrangling and visualisation using Python and Tableau](https://github.com/OdiNnodum/Companies-House-postcode-analysis/tree/main)
