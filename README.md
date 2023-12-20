@@ -9,16 +9,15 @@
 - <b>Predictive analytics of the number of crypto-related websites</b>
   - [Predictive analytics using linear regression and timeseries forecasting](https://github.com/OdiNnodum/Predictive-analytics-using-linear-regression-and-timeseries-forecasting/tree/main)
 <h2>👨‍💻SQL data analytics projects:</h2>
+
+- <b>Hotel performance analysis</b>
   - [Hotel performance analysis and visualisation using SQL and Power BI](https://github.com/OdiNnodum/SQL-Power-BI-Project/tree/main)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 -<h2>👨‍💻Power BI data analytics projects:</h2>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<b>Hotel performance analysis</b>
+  - [Hotel performance analysis and visualisation using SQL and Power BI](https://github.com/OdiNnodum/SQL-Power-BI-Project/tree/main)
+
 
 
 <h2> 🤳 Connect with me:</h2>
