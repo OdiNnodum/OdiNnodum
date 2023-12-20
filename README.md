@@ -9,7 +9,7 @@
 - <b>Predictive analytics of the number of crypto-related websites</b>
   - [Predictive analytics using linear regression and timeseries forecasting](https://github.com/OdiNnodum/Predictive-analytics-using-linear-regression-and-timeseries-forecasting/tree/main)
 <h2>👨‍💻SQL data analytics projects:</h2>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Hotel performance analysis and visualisation using SQL and Power BI](https://github.com/OdiNnodum/SQL-Power-BI-Project/tree/main)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
